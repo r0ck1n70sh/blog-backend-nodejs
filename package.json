@@ -1,0 +1,24 @@
+{
+  "name": "loan-mng-backend",
+  "version": "1.0.0",
+  "description": "Backend Service for Loan Manager App",
+  "main": "app.js",
+  "dependencies": {
+    "edit-json-file": "^1.6.0",
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r0ck1n70sh/loan-mng-backend/"
+  },
+  "author": "r0ck1n70sh",
+  "license": "ISC"
+}
